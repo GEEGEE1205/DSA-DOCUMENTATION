@@ -16,3 +16,9 @@ I have solved Numerous data using this softwares.
 #### Tools Used:
 
 [Download here](https://www.microsoft.com)
+
+```` SQL
+SELECT A,B,C
+WHERE A> 15
+
+````
