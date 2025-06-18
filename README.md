@@ -22,3 +22,7 @@ SELECT A,B,C
 WHERE A> 15
 
 ````
+
+*italics*
+
+**Bold**
