@@ -5,12 +5,12 @@
 
 
 - I have learnt the use of microsoft excel,SQL,PowerBi.
-I have solved Numerous data using this softwares.
+- I have solved Numerous data using this softwares.
 
 ### Microsoft Excel :
 
 It is a Data Analysis Tool, used in collating,cleaning datasets for Analytical Purposes.
-So far I have learnt Functions Like;
+- So far I have learnt Functions Like;
   -Sum
   -Average
   -Max
@@ -40,6 +40,48 @@ So far I have learnt Functions Like;
   -OR
   -IFs
   -Lower
+  -LOOKUP
+  -VLOOKUP
+  -XLOOKUP
+- **Use of Pivot Table**
+- **Creating Excel Dashboard**
+### SQL (Structured Query Language)
+
+- It is used to interact with Databases and extract information from Large Datasets.
+- It is used to clean and prepare Datasets for Analysis.
+- It gives Summary of information in a dataset.
+ - I have learnt:
+    - SQL Commands
+    - SQL Datatypes
+    - SQL Keys
+    - SQL Clauses
+    - SQL Operators
+    - SQL Joins
+    - Aggregate Function
+    - SQL Operations
+    - Views in SQL
+    - Case WHEN Statements
+  
+    ---
+
+### PowerBI (Power Business Intelligence)
+
+- It is used to interact with Databases and extract information from Large Datasets.
+- It is used to clean and prepare Datasets for Analysis.
+- It gives Summary of information in a dataset.
+ - I have learnt:
+    - SQL Commands
+    - SQL Datatypes
+    - SQL Keys
+    - SQL Clauses
+    - SQL Operators
+    - SQL Joins
+    - Aggregate Function
+    - SQL Operations
+    - Views in SQL
+    - Case WHEN Statements
+  
+
 
 #### Introduction:
 
