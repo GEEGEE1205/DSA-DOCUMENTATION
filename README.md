@@ -88,6 +88,23 @@ It uses DAX (Data Analysis Expressions) for calculations.
     - SQL Database
     - Azure cloud platform
     - Blank Query
+- **I Learnt the use of funtion like:**
+   - Trim
+   - Clean
+   - Case
+   - Renaming
+   - Splitting columns
+   - Replace  Values
+   - Changing datatypes
+   - Unpivot columns
+   - Rearranging columns
+   - Creating custom columns
+   - Append Queries
+   - Merge Queries
+   - Groupind Data
+- **Modelling**
+- **DAX Functions**
+     
     
 ---
 
