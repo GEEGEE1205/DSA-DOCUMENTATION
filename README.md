@@ -101,8 +101,9 @@ It uses DAX (Data Analysis Expressions) for calculations.
    - Creating custom columns
    - Append Queries
    - Merge Queries
-   - Groupind Data
+   - Grouping Data
 - **Modelling**
+- **Visualization**
 - **DAX Functions**
      
     
