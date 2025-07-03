@@ -113,5 +113,9 @@ It uses DAX (Data Analysis Expressions) for calculations.
     SQl extract raw data and joins and excel perform quick analysis and summaries while PowerBI Creates final dashboard and visuals.
     
  
+#### AUTHOR
+
+**KOLAPO ILERIOLUWA GREAT-GRACE**
+ Data Analyst / Excel. Power BI .SQL /
 
 
